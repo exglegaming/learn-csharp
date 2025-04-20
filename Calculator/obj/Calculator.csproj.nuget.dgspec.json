@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\workspace\\github.com\\exglegaming\\Calculator\\Calculator\\Calculator.csproj": {}
+    "I:\\workspace\\github.com\\exglegaming\\LearnCSharp\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "I:\\workspace\\github.com\\exglegaming\\Calculator\\Calculator\\Calculator.csproj": {
+    "I:\\workspace\\github.com\\exglegaming\\LearnCSharp\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\workspace\\github.com\\exglegaming\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "I:\\workspace\\github.com\\exglegaming\\LearnCSharp\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "I:\\workspace\\github.com\\exglegaming\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "I:\\workspace\\github.com\\exglegaming\\LearnCSharp\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\ExgleGaming\\.nuget\\packages\\",
-        "outputPath": "I:\\workspace\\github.com\\exglegaming\\Calculator\\Calculator\\obj\\",
+        "outputPath": "I:\\workspace\\github.com\\exglegaming\\LearnCSharp\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
