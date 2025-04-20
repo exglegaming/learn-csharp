@@ -1,0 +1,15 @@
+I:\workspace\github.com\exglegaming\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+I:\workspace\github.com\exglegaming\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+I:\workspace\github.com\exglegaming\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+I:\workspace\github.com\exglegaming\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+I:\workspace\github.com\exglegaming\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+I:\workspace\github.com\exglegaming\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
